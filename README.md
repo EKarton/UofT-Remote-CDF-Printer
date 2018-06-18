@@ -12,9 +12,9 @@ Please note that I have developed and ran this shell script at UofT Downtown cam
 
 ### Pre-requisites:
 You will need either:
-a. A windows machine with WSL (Windows Subsystem for Linux) installed
-b. A linux machine
-c. A Mac OS machine
+- A windows machine with WSL (Windows Subsystem for Linux) installed, or
+- A linux machine, or
+- A Mac OS machine
 
 ### Installation:
 Please follow the following instructions to help you run the shell script
