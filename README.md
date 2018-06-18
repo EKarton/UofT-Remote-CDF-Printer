@@ -3,7 +3,7 @@ This shell script aims to improve work productivity and take advantage of UofT's
 
 ### Disclaimer: 
 I have no responsibility over any damages or loss that may occur during the execution of or usage of my shell script.
-Please note that I have developed and ran this shell script at UofT Downtown campus; thus, I have no guarantee on whether it works in other UofT campuses.
+Please note that I have developed and ran this shell script for UofT's downtown campus; thus, I have no guarantee on whether it works for other UofT campuses.
 
 ### How it works:
 1. On your local machine, it sends all the documents on the folder with the shell script over to the UofT CS lab machines in the folder ~/Desktop/PrintJobs (if there is no such folder it will make one for you)
