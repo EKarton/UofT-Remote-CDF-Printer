@@ -1,5 +1,5 @@
 ## A shell script used to print things from your own computer at UofT!
-This shell script allows students to remotely print documents from your local machine to the CDF printers. 
+This shell script allows students to remotely print documents from your own computer to the CDF printers. 
 
 ### Disclaimer: 
 I have no responsibility over any damages or loss that may occur during the execution of or usage of my shell script.
