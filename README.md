@@ -25,7 +25,7 @@ Please follow the following instructions to help you run the shell script
 
 ### Printing documents:
 1. Put all the documents that you want to print from your local machine to the folder containing the shell script
-2. Run the shell script (for Window users, open up bash and type print.sh)
+2. Run the shell script by typing the command ```sh print.sh```. It will print all documents that are present in the folder (except for print.sh).
 
 ### Credits:
 The shell script was developed by Emilio Kartono 
