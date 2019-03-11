@@ -4,6 +4,8 @@
 UTOR_ID="<YOUR_UTORID>"
 END_POINT="teach.cs.utoronto.ca"
 REMOTE_PRINTJOBS_FOLDER="~/Desktop/PrintJobs"
+
+# The available printers (ex: p3175a, p2210a, etc.)
 PRINTER="<A_UOFT_PRINTER>"
 
 ssh "$UTOR_ID"@"$END_POINT" bash -c "'
