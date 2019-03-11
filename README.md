@@ -1,5 +1,5 @@
-## A shell script used to print documents at UofT!
-This shell script aims to improve work productivity and take advantage of UofT's CS PoST printing benefits by printing documents with ease.
+## A shell script used to print things from your own computer at UofT!
+This shell script allows students to remotely print documents from your local machine to the CDF printers. 
 
 ### Disclaimer: 
 I have no responsibility over any damages or loss that may occur during the execution of or usage of my shell script.
