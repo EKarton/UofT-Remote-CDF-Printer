@@ -26,7 +26,7 @@ echo "Sent all files (except print.sh and desktop.ini) to $REMOTE_PRINTJOBS_FOLD
 
 # Print the files
 ssh "$UTOR_ID@$END_POINT" bash -c "'
-	# print -P $PRINTER "$REMOTE_PRINTJOBS_FOLDER/*"
+	print -P $PRINTER "$REMOTE_PRINTJOBS_FOLDER/*"
 	echo "Printed all files except for print.sh and desktop.ini to printer $PRINTER"
 	lpq -P "$PRINTER"
 	pquota
