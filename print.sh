@@ -6,7 +6,9 @@ END_POINT="teach.cs.utoronto.ca"
 REMOTE_PRINTJOBS_FOLDER="~/Desktop/PrintJobs"
 
 # The available printers (ex: p3175a, p2210a, etc.)
-PRINTER="<A_UOFT_PRINTER>"
+PRINTER="p2210a"
+
+echo "Will be printing at printer $PRINTER"
 
 ssh "$UTOR_ID"@"$END_POINT" bash -c "'
 	# Make the PrintJobs folder if it does not exist
